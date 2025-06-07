@@ -37,13 +37,13 @@ This project recreates the artistic flow and fluid interactions of Obys Agency u
 ---
 
 ## 📁 Project Structure
-
+```
 obys-clone/
 ├── index.html # Main HTML page
 ├── style.css # Styling rules (external)
 ├── script.js # All animations and interactivity
 ├── /images # Project visuals (img-*.png/.jpg)
-
+```
 
 
 ## 🔍 Key Features
@@ -57,15 +57,6 @@ obys-clone/
 
 > 💡 All built using native JavaScript with zero framework overhead.
 
-Run Locally:
-Just open index.html in your browser.
-Make sure image assets are placed correctly in the root or /images/ folder.
-
-Customize:
-Swap out images in the .image-container
-
-Modify styles via style.css
-Tweak animation parameters in script.js
 
 ✨ Inspiration
 This project is deeply inspired by the award-winning aesthetics and motion design of Obys.agency. It aims to translate visual storytelling into code, for design lovers and creative developers alike.
